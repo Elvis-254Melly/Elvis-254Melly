@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elvis-254Melly
 - 👀 I’m interested in ...Developing Apps and Websites 
-- 🌱 I’m currently learning ...java language
+- 🌱 I’m currently learning ...java language and Kotlin language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Through my Email<Elvismelly704@gmail.com 
 
